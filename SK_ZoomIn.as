@@ -1,0 +1,1 @@
+﻿package{	import flash.display.SimpleButton;		dynamic public class SK_ZoomIn extends SimpleButton 	{				public function SK_ZoomIn() 		{			return;		}	}	}

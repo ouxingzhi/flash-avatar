@@ -1,0 +1,1 @@
+﻿package{    import flash.display.MovieClip;    dynamic public class SK_TipB extends MovieClip    {        public function SK_TipB()        {            return;        }    }}

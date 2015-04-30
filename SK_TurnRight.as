@@ -1,0 +1,1 @@
+﻿package{    import flash.display.SimpleButton;    dynamic public class SK_TurnRight extends SimpleButton    {        public function SK_TurnRight()        {            return;        }    }}
